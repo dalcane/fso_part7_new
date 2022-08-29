@@ -37,6 +37,8 @@
   "proxy": "http://localhost:3003",
   "devDependencies": {
     "cypress": "^10.5.0",
+    "eslint": "^8.0.0",
+    "eslint-config-react-app": "^7.0.1",
     "prettier": "2.7.1"
   }
 }
